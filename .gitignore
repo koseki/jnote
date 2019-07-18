@@ -1,0 +1,15 @@
+*~
+\#*
+.\#*
+tmp
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.project
+*.ignore
+*.stackdump
+
+.python-version
+.ipynb_checkpoints
